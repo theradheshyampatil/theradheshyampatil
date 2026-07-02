@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theradheshyampatil)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theradheshyampatil)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radheshyam9096@gmail.com)
-[![Portfolio](https://img.shields.io/badge/projectbyradhe.xyz-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://projectbyradhe.xyz)
+[![Portfolio](https://img.shields.io/badge/demo.projectbyradhe.xyz-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://demo.projectbyradhe.xyz)
 
 </div>
 
